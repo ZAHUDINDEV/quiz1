@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quiz1</string>
+    <string name="_4_jawaban_no_4">4. Jawaban NO. 4</string>
+    <string name="quiz_1">QUIZ 1</string>
+    <string name="mata_kuliah_mobile_programing_ti21k1">Mata Kuliah Mobile Programing TI21K1</string>
+    <string name="nim_202111015">NIM : 202111015</string>
+    <string name="nama_zahudin">Nama : Zahudin</string>
+    <string name="kelas_ti21k1">Kelas : Ti21K1</string>
+    <string name="_1_jawaban_no_1">1. Jawaban NO. 1</string>
+    <string name="_2_jawaban_no_2">2. Jawaban NO. 2</string>
+    <string name="_3_jawaban_no_3">3. Jawaban NO. 3</string>
+    <string name="_5_jawaban_no_5">5. Jawaban NO. 5</string>
+    <string name="jawaban">jawaban</string>
+    <string name="back">BACK</string>
+</resources>
